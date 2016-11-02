@@ -1,6 +1,3 @@
-HI,
-
-Please find the attachments  SQL scripts to import non-TB Drugs for new implementations.
 Note:-  Please run the scripts in the following order
 addformulation.sql
 formulations.sql
